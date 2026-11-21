@@ -15,9 +15,9 @@ experience with bounties is assumed. If you can open a terminal and follow
 steps in order, you can do this.
 
 > **Start here:** sign up with my link —
-> [https://make.fun/r/kk8c043j](https://make.fun/r/kk8c043j)
+> [https://make.fun/r/h0jjpkje](https://make.fun/r/h0jjpkje)
 >
-> My referral code is `kk8c043j`.
+> My referral code is `h0jjpkje`.
 
 ## Your first 30 minutes
 
@@ -113,7 +113,7 @@ for a free-entry bounty.
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/kk8c043j](https://make.fun/r/kk8c043j) and
+1. Open [https://make.fun/r/h0jjpkje](https://make.fun/r/h0jjpkje) and
    click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All
    of them are free, and signing in with a wallet sends no transaction.
@@ -321,7 +321,7 @@ accounts, and bot signups never count — the same system that pays the
 referral rewards decides, and it is built to catch exactly that.
 
 If this guide helped, signing up through
-[my link](https://make.fun/r/kk8c043j) (code `kk8c043j`) is a nice way to
+[my link](https://make.fun/r/h0jjpkje) (code `h0jjpkje`) is a nice way to
 say thanks — and then your own link is waiting on your profile for you to
 share the same way.
 
@@ -413,4 +413,4 @@ that counts, so keep improving it.
 ---
 
 <sub>Written for the make.fun community. Sign up with my referral link:
-https://make.fun/r/kk8c043j · code <code>kk8c043j</code></sub>
+https://make.fun/r/h0jjpkje · code <code>h0jjpkje</code></sub>
